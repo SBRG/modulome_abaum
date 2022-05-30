@@ -1,0 +1,50 @@
+,Name,Function,Evidence,Category,n_genes,explained variance
+0,Fur-1,Iron homeostasis,Fisher's exact test,Inorganic ions,41,0.007519946
+1,NDH-1,NADPH dehyrogenase I operon,E.coli PRECISE2.0 iModulome comparison,Energy metabolism,9,0.01519521
+2,BfmR-BfmS,Two-component system regulating the pili chaperone-usher assembly system,Fisher's exact test,Virulence,6,0.002410951
+3,PhoR-PhoB,Two-component system regulating inorganic phosphate levels,E.coli PRECISE2.0 iModulome comparison,Inorganic ions,20,0.004925219
+4,Fur-2,Iron homeostasis,"Fisher's exact test, E.coli PRECISE2.0 iModulome comparison",Inorganic ions,52,0.020673973
+5,Pnt,Pnt operon encoding subunits of NADP transhydrogenase,Manual annotation,Energy metabolism,3,0.004305471
+6,GigA-GigB KO,Single gene iModulon capturing gigA and gigB knockouts,Manual annotation,Genomic,2,0.00163272
+7,Cbl/GigC,Sulfur transport and cysteine metabolism,Manual annotation,Inorganic ions,27,0.01670428
+8,R7 mutant,iModulon capturing the loss of the p1AB5075 plasmid,Manual annotation,Plasmid,59,0.011959916
+9,ABUW_1645,Key regulator of the VIR-O/AV-T high frequency phenotypic switch,Manual annotation,Virulence,24,0.032379095
+10,Prophage,Enriched with PHASter data for three prophage regions,Fisher's exact test,Virulence,51,0.013100599
+11,Acetoin/butanediol,Acetoin and butanediol catabolic pathways ,Manual annotation,Energy metabolism,14,0.009807199
+12,Motility,Fimbrial subunits,Manual annotation,Virulence,10,0.007165295
+13,Unc-1,Uncharacterized iModulon 1,,Uncharacterized,46,0.009618888
+14,GacA-GacS,iModulon associated with decreased activity in GacA mutant - potential stationary phase response,Manual annotation,Virulence,50,0.053747159
+15,CRISPR,Endogenous CRISPR-Cas system,Manual annotation,Stress,16,0.011963273
+16,HGT,Manually annotated iModulon capturing genomic transposase genes and plasmid encoded genes associated with conjugation.,Manual annotation,Plasmid,52,0.005990687
+17,adeB KO,Effect of adeB knockout,Manual annotation,Genomic,52,0.009124557
+18,Tyrosine,Tyrosine transport and metabolism,Manual annotation,Amino acid metabolism,6,0.004187447
+19,mumR,Contains the mumR regulon homologs from ATCC 17978 associated with manganese import and urea metabolism [DOI 10.1128/mBio.01475-16]  ,Fisher's exact test,Inorganic ions,5,0.005235478
+20,Lipoprotein,Increased activity in colistin and LL-37 treatment,Manual annotation,Virulence,12,0.004007604
+21,Unc-2,Uncharacterized iModulon 2,,Uncharacterized,6,0.008408027
+22,Translation,Translational machinery,E.coli PRECISE2.0 and aeruPRECSISE411 iModulome comparison,Functional,43,0.060521542
+23,Amino acid,Manually annotated iModulon with genes associated with amino acids,Manual annotation,Amino acid metabolism,9,0.00468609
+24,Unc-3,Uncharacterized iModulon 3,,Uncharacterized,14,0.003649903
+25,GigA-GigB,iModulon associated with decreased activity in gigA and gigB mutants,Manual annotation,Virulence,61,0.01919696
+26,Unc-4,Uncharacterized iModulon 4,,Uncharacterized,12,0.004085347
+27,Unc-5,Uncharacterized iModulon 5,,Uncharacterized,98,0.014161147
+28,PaaX,Phenylacetic acid pathway genes [DOI 10.https://doi.org/10.1093/infdis/jiu024]  ,E.coli PRECISE2.0 iModulome comparison,Virulence,15,0.020915433
+29,Unc-6,Uncharacterized iModulon 6,,Uncharacterized,15,0.003395048
+30,Unc-7,Uncharacterized iModulon 7,,Uncharacterized,2,0.010725012
+31,Type IV Pili,Manually annotated iModulon with genes associated with type IV pili ,Manual annotation,Virulence,32,0.016186802
+32,Unc-8,Uncharacterized iModulon 8,,Uncharacterized,6,0.017236732
+33,Unc-9,Uncharacterized iModulon 9,,Uncharacterized,42,0.012226421
+34,Leucine,Manually annotated iModulon with genes associated with Leucine degradation,Manual annotation,Amino acid metabolism,13,0.010409295
+35,KpdD-KpdE,Two-component system regulating pottassium homeostasis,"Fisher's exact test, E.coli PRECISE2.0 iModulome comparison",Inorganic ions,7,0.007006092
+36,ppGpp,Stringent response iModulon identified by comparing to E.coli PRECISE 2.0 iModulome,E.coli PRECISE2.0 iModulome comparison,Stress,28,0.040781612
+37,Unc-10,Uncharacterized iModulon 10,,Uncharacterized,12,0.003661631
+38,Unc-11,Uncharacterized iModulon 11,,Uncharacterized,20,0.005614093
+39,RpoH,"iModulon containing various heat shock proteins, chaperones, and DNA repair genes identified by comparing to E.coli PRECISE 2.0 iModulome",E.coli PRECISE2.0 and aeruPRECSISE411 iModulome comparison,Stress,26,0.006596159
+40,LldR,Transcription factor associated with lactate utilization,Fisher's exact test,Carbon metabolism,4,0.006359358
+41,cyd,Consists of cyd operon,E.coli PRECISE2.0 iModulome comparison,Energy metabolism,8,0.008770366
+42,ABUW_1645 OE,iModulon capturing the overexpression of ABUW_1645 in AB5075_VIR-O_AV-T project,Manual annotation,Genomic,3,0.005593662
+43,AMR,Antimicrobial resistance island on p1AB5075 plasmid,Fisher's exact test,Plasmid,15,0.010348586
+44,Unc-12,Uncharacterized iModulon 12,,Uncharacterized,21,0.000619732
+45,Fe-S Cluster,Fe-S cluster assembly,Manual annotation,Energy metabolism,8,0.004396242
+46,Urease/Ammonia,Manually annotated iModulon containing urease and ammonia transport genes,Manual annotation,Amino acid metabolism,14,0.00155754
+47,Heavy metal resistance,ISPpu12 gene cluster/heavy metal resistance,Manual annotation,Stress,3,0.00402302
+48,Unc-13,Uncharacterized iModulon 13,,Uncharacterized,14,0.006971927

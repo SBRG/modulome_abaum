@@ -1,0 +1,50 @@
+﻿,imod_name,gene_count,imod_type,exp_var,color
+0,Fur-1,100,Homeostasis,0.007519946,gold
+1,Unc-1,90,Uncharacterized,0.01519521,lightgrey
+2,BfmR-BfmS,6,Virulence,0.002410951,darkred
+3,PhoR-PhoB,35,Homeostasis,0.004925219,gold
+4,Fur-2,44,Homeostasis,0.020673973,gold
+5,Pnt,3,Functional,0.004305471,orange
+6,GigA-GigB,2,Virulence,0.00163272,tomato
+7,Cbl/GigC,13,Metabolism,0.01670428,navajowhite
+8,R7 mutant-1,57,Genomic,0.011959916,coral
+9,Biofilm-1,118,Virulence,0.032379095,darkred
+10,Prophage-1,36,Genomic,0.013100599,coral
+11,Butanoate metabolism,20,Metabolism,0.009807199,navajowhite
+12,Biofilm-2,26,Virulence,0.007165295,darkred
+13,Prophage-2,52,Genomic,0.009618888,coral
+14,Unc-2,43,Uncharacterized,0.053747159,lightgrey
+15,H2O2,75,Stress,0.011963273,indianred
+16,R7 mutant-2,41,Genomic,0.005990687,coral
+17,adeB KO,44,Genomic,0.009124557,coral
+18,Tyrosine,6,Metabolism,0.004187447,navajowhite
+19,mumR,5,Homeostasis,0.005235478,gold
+20,Lipoprotein,6,Metabolism,0.004007604,navajowhite
+21,Unc-3,121,Uncharacterized,0.008408027,lightgrey
+22,Translation-1,65,Functional,0.060521542,orange
+23,Amino acid,9,Metabolism,0.00468609,navajowhite
+24,Unc-4,53,Uncharacterized,0.003649903,lightgrey
+25,Unc-5,183,Uncharacterized,0.01919696,lightgrey
+26,Unc-6,65,Uncharacterized,0.004085347,lightgrey
+27,Unc-7,91,Uncharacterized,0.014161147,lightgrey
+28,GacA-GacS,12,Virulence,0.020915433,darkred
+29,Unc-8,18,Uncharacterized,0.003395048,lightgrey
+30,Unc-9,110,Uncharacterized,0.010725012,lightgrey
+31,Type IV Pili,49,Virulence,0.016186802,darkred
+32,Unc-10,116,Uncharacterized,0.017236732,lightgrey
+33,Unc-11,109,Uncharacterized,0.012226421,lightgrey
+34,Leucine,9,Metabolism,0.010409295,navajowhite
+35,KpdD-KpdE,7,Homeostasis,0.007006092,gold
+36,Translation-2,122,Functional,0.040781612,orange
+37,Unc-12,50,Uncharacterized,0.003661631,lightgrey
+38,Unc-13,53,Uncharacterized,0.005614093,lightgrey
+39,Stress,28,Stress,0.006596159,indianred
+40,LldR,4,Metabolism,0.006359358,navajowhite
+41,cyd,10,Functional,0.008770366,orange
+42,Unc-14,170,Uncharacterized,0.005593662,lightgrey
+43,p1AB5075,15,Virulence,0.010348586,darkred
+44,Unc-15,66,Uncharacterized,0.000619732,lightgrey
+45,Unc-16,9,Uncharacterized,0.004396242,lightgrey
+46,Unc-17,80,Uncharacterized,0.00155754,lightgrey
+47,Unc-18,4,Uncharacterized,0.00402302,lightgrey
+48,Growth,31,Metabolism,0.006971927,navajowhite
