@@ -122,80 +122,51 @@
 120,AdeN,ABUW_1731,TF,-,adeI,,,,ABUW_0844,DOI 10.1128/AAC.06422-11,differential expression in another AB strain
 121,AdeN,ABUW_1731,TF,-,adeJ,,,,ABUW_0843,DOI 10.1128/AAC.06422-11,differential expression in another AB strain
 122,AdeN,ABUW_1731,TF,-,adeK,,,,ABUW_0842,DOI 10.1128/AAC.06422-11,differential expression in another AB strain
-123,Fur,ABUW_3033,TF,,,,A1S_0416,,ABUW_3465,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-124,Fur,ABUW_3033,TF,,,,A1S_2382,,ABUW_1179,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-125,Fur,ABUW_3033,TF,,,,A1S_2391,,ABUW_1169,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-126,Fur,ABUW_3033,TF,,,,A1S_2582,,ABUW_1238,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-127,Fur,ABUW_3033,TF,,,,A1S_2278,,ABUW_1364,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-128,Fur,ABUW_3033,TF,,,,A1S_2372,,ABUW_1188,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-129,Fur,ABUW_3033,TF,,,,A1S_0242,,ABUW_3633,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-130,Fur,ABUW_3033,TF,,,,A1S_3174,,ABUW_0307,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-131,Fur,ABUW_3033,TF,,,,A1S_1647,,ABUW_2189,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-132,Fur,ABUW_3033,TF,,,,A1S_1657,,ABUW_2178,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-133,Fur,ABUW_3033,TF,,,,A1S_1667,,ABUW_2165,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-134,Fur,ABUW_3033,TF,,,,A1S_3339,,ABUW_0143,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-135,Fur,ABUW_3033,TF,,,,A1S_2566,,ABUW_1177,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-136,Fur,ABUW_3033,TF,,,,A1S_2080,,ABUW_1646,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-137,Fur,ABUW_3033,TF,,,,A1S_0980,,ABUW_2916,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-138,Fur,ABUW_3033,TF,,,,A1S_3324,,ABUW_0159,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-139,Fur,ABUW_3033,TF,,,,A1S_2392,,ABUW_1168,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-140,Fur,ABUW_3033,TF,,,,A1S_2077,,ABUW_1655,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-141,Fur,ABUW_3033,TF,,,,A1S_2078/A1S_2650,,ABUW_1654,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-142,Fur,ABUW_3033,TF,,,,A1S_0474,,ABUW_3403,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-143,Fur,ABUW_3033,TF,,,,A1S_2123,,ABUW_1598,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-144,Fur,ABUW_3033,TF,,,,A1S_2667,,ABUW_0914,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-145,Fur,ABUW_3033,TF,,,,A1S_2581,,ABUW_1188,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-146,Fur,ABUW_3033,TF,,,,A1S_1510,,ABUW_2310,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-147,Fur,ABUW_3033,TF,,,,A1S_1384,,ABUW_2438,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-148,Fur,ABUW_3033,TF,,,,A1S_1385,,ABUW_2437,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-149,Fur,ABUW_3033,TF,,,,A1S_1921,,ABUW_1800,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-150,Fur,ABUW_3033,TF,,,,A1S_1922,,ABUW_1799,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-151,Fur,ABUW_3033,TF,,,,A1S_0171,,ABUW_3718,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-152,Fur,ABUW_3033,TF,,,,A1S_0371,,ABUW_3508,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-153,Fur,ABUW_3033,TF,,,,A1S_0736,,ABUW_3198,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-154,Fur,ABUW_3033,TF,,,,A1S_2271,,ABUW_0651,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-155,Fur,ABUW_3033,TF,,,,A1S_2567,,ABUW_1186,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-156,Fur,ABUW_3033,TF,,,,A1S_0452,,ABUW_3426,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-157,Fur,ABUW_3033,TF,,,,A1S_2710,,ABUW_0867,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-158,Fur,ABUW_3033,TF,,,,A1S_2711,,ABUW_0868,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-159,Fur,ABUW_3033,TF,,,,A1S_2798,,ABUW_0698,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-160,Fur,ABUW_3033,TF,,,,A1S_1896,,ABUW_1829,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-161,Fur,ABUW_3033,TF,,,,A1S_1897,,ABUW_1828,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-162,Fur,ABUW_3033,TF,,,,A1S_1607,,ABUW_2228,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-163,Fur,ABUW_3033,TF,,,,A1S_1608,,ABUW_2226,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-164,Fur,ABUW_3033,TF,,,,A1S_0799,,ABUW_3127,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-165,Fur,ABUW_3033,TF,,,,A1S_0800,,ABUW_0306,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-166,Fur,ABUW_3033,TF,,,,A1S_0858/A1S_0859,,ABUW_3069,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-167,Fur,ABUW_3033,TF,,,,A1S_1865/A1S_1866,,ABUW_1857,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-168,Fur,ABUW_3033,TF,,,,A1S_0944,,ABUW_2954,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-169,Fur,ABUW_3033,TF,,,,A1S_0945,,ABUW_2953,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-170,Fur,ABUW_3033,TF,,,,A1S_1488,,ABUW_2335,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-171,Fur,ABUW_3033,TF,,,,A1S_1489,,ABUW_2334,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-172,Fur,ABUW_3033,TF,,,,A1S_3175,,ABUW_0306,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-173,Fur,ABUW_3033,TF,,,,A1S_0110,,ABUW_3775,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-174,Fur,ABUW_3033,TF,,,,A1S_0111,,ABUW_3774,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-175,Fur,ABUW_3033,TF,,,,A1S_1004,,ABUW_2892,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-176,Fur,ABUW_3033,TF,,,,A1S_1005,,ABUW_2890,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-177,Fur,ABUW_3033,TF,,,,A1S_0812,,ABUW_3114,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-178,Fur,ABUW_3033,TF,,,,A1S_2359,,ABUW_1201,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-179,Fur,ABUW_3033,TF,,,,A1S_0141,,ABUW_3745,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-180,Fur,ABUW_3033,TF,,,,A1S_0142,,ABUW_3744,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-181,Fur,ABUW_3033,TF,,,,A1S_3388,,ABUW_0095,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-182,Fur,ABUW_3033,TF,,,,A1S_1027,,ABUW_2868,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-183,Fur,ABUW_3033,TF,,,,A1S_2444,,ABUW_1119,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-184,Fur,ABUW_3033,TF,,,,A1S_1063,,ABUW_2828,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-185,Fur,ABUW_3033,TF,,,,A1S_2475,,ABUW_1074,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-186,Fur,ABUW_3033,TF,,,,A1S_2476,,ABUW_1073,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-187,Fur,ABUW_3033,TF,,,,A1S_2157,,ABUW_1564,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-188,Fur,ABUW_3033,TF,,,,A1S_0224,,ABUW_3649,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-189,Fur,ABUW_3033,TF,,,,A1S_0938,,ABUW_2960,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-190,Fur,ABUW_3033,TF,,,,A1S_2230,,ABUW_1466,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-191,Fur,ABUW_3033,TF,,,,A1S_1406,,ABUW_2416,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-192,Fur,ABUW_3033,TF,,,,A1S_1407,,ABUW_2415,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-193,Fur,ABUW_3033,TF,,,,A1S_2357/A1S_2358,,ABUW_1202,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-194,Fur,ABUW_3033,TF,,,,A1S_3231,,ABUW_0255,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-195,Fur,ABUW_3033,TF,,,,A1S_3232,,ABUW_0254,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
-196,Fur,ABUW_3033,TF,,,,A1S_2286,,ABUW_1356,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain  with differential expression in iron depleted conditions
+123,Fur,ABUW_3033,TF,,,,A1S_0416,,ABUW_3465,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain with differential expression in iron depleted conditions (microarray)
+124,Fur,ABUW_3033,TF,,,,A1S_2382,,ABUW_1179,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain with differential expression in iron depleted conditions (microarray)
+125,Fur,ABUW_3033,TF,,,,A1S_2391,,ABUW_1169,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain with differential expression in iron depleted conditions (microarray)
+126,Fur,ABUW_3033,TF,,,,A1S_2582,,ABUW_1238,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain with differential expression in iron depleted conditions (microarray)
+127,Fur,ABUW_3033,TF,,,,A1S_2278,,ABUW_1364,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain with differential expression in iron depleted conditions (microarray)
+128,Fur,ABUW_3033,TF,,,,A1S_2372,,ABUW_1188,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain with differential expression in iron depleted conditions (microarray)
+129,Fur,ABUW_3033,TF,,,,A1S_0242,,ABUW_3633,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain with differential expression in iron depleted conditions (microarray)
+130,Fur,ABUW_3033,TF,,,,A1S_3174,,ABUW_0307,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain with differential expression in iron depleted conditions (microarray)
+131,Fur,ABUW_3033,TF,,,,A1S_1647,,ABUW_2189,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain with differential expression in iron depleted conditions (microarray)
+132,Fur,ABUW_3033,TF,,,,A1S_1657,,ABUW_2178,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain with differential expression in iron depleted conditions (microarray)
+133,Fur,ABUW_3033,TF,,,,A1S_1667,,ABUW_2165,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain with differential expression in iron depleted conditions (microarray)
+134,Fur,ABUW_3033,TF,,,,A1S_3339,,ABUW_0143,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain with differential expression in iron depleted conditions (microarray)
+135,Fur,ABUW_3033,TF,,,,A1S_2566,,ABUW_1177,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain with differential expression in iron depleted conditions (microarray)
+136,Fur,ABUW_3033,TF,,,,A1S_2080,,ABUW_1646,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain with differential expression in iron depleted conditions (microarray)
+137,Fur,ABUW_3033,TF,,,,A1S_0980,,ABUW_2916,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain with differential expression in iron depleted conditions (microarray)
+138,Fur,ABUW_3033,TF,,,,A1S_3324,,ABUW_0159,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain with differential expression in iron depleted conditions (microarray)
+139,Fur,ABUW_3033,TF,,,,A1S_2392,,ABUW_1168,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain with differential expression in iron depleted conditions (microarray)
+140,Fur,ABUW_3033,TF,,,,A1S_2077,,ABUW_1655,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain with differential expression in iron depleted conditions (microarray)
+141,Fur,ABUW_3033,TF,,,,A1S_2078/A1S_2650,,ABUW_1654,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain with differential expression in iron depleted conditions (microarray)
+142,Fur,ABUW_3033,TF,,,,A1S_0474,,ABUW_3403,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain with differential expression in iron depleted conditions (microarray)
+143,Fur,ABUW_3033,TF,,,,A1S_2123,,ABUW_1598,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain with differential expression in iron depleted conditions (microarray)
+144,Fur,ABUW_3033,TF,,,,A1S_2667,,ABUW_0914,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain with differential expression in iron depleted conditions (microarray)
+145,Fur,ABUW_3033,TF,,,,A1S_2581,,ABUW_1188,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain with differential expression in iron depleted conditions (microarray)
+146,Fur,ABUW_3033,TF,,,,A1S_1510,,ABUW_2310,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain with differential expression in iron depleted conditions (microarray)
+147,Fur,ABUW_3033,TF,,,,A1S_1384,,ABUW_2438,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain with differential expression in iron depleted conditions (microarray)
+148,Fur,ABUW_3033,TF,,,,A1S_1385,,ABUW_2437,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain with differential expression in iron depleted conditions (microarray)
+149,Fur,ABUW_3033,TF,,,,A1S_1921,,ABUW_1800,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain with differential expression in iron depleted conditions (microarray)
+151,Fur,ABUW_3033,TF,,,,A1S_0171,,ABUW_3718,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain with differential expression in iron depleted conditions (microarray)
+152,Fur,ABUW_3033,TF,,,,A1S_0371,,ABUW_3508,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain with differential expression in iron depleted conditions (microarray)
+154,Fur,ABUW_3033,TF,,,,A1S_2271,,ABUW_0651,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain with differential expression in iron depleted conditions (microarray)
+155,Fur,ABUW_3033,TF,,,,A1S_2567,,ABUW_1186,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain with differential expression in iron depleted conditions (microarray)
+156,Fur,ABUW_3033,TF,,,,A1S_0452,,ABUW_3426,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain with differential expression in iron depleted conditions (microarray)
+159,Fur,ABUW_3033,TF,,,,A1S_2798,,ABUW_0698,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain with differential expression in iron depleted conditions (microarray)
+160,Fur,ABUW_3033,TF,,,,A1S_1896,,ABUW_1829,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain with differential expression in iron depleted conditions (microarray)
+161,Fur,ABUW_3033,TF,,,,A1S_1897,,ABUW_1828,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain with differential expression in iron depleted conditions (microarray)
+164,Fur,ABUW_3033,TF,,,,A1S_0799,,ABUW_3127,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain with differential expression in iron depleted conditions (microarray)
+165,Fur,ABUW_3033,TF,,,,A1S_0800,,ABUW_0306,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain with differential expression in iron depleted conditions (microarray)
+170,Fur,ABUW_3033,TF,,,,A1S_1488,,ABUW_2335,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain with differential expression in iron depleted conditions (microarray)
+172,Fur,ABUW_3033,TF,,,,A1S_3175,,ABUW_0306,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain with differential expression in iron depleted conditions (microarray)
+173,Fur,ABUW_3033,TF,,,,A1S_0110,,ABUW_3775,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain with differential expression in iron depleted conditions (microarray)
+176,Fur,ABUW_3033,TF,,,,A1S_1005,,ABUW_2890,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain with differential expression in iron depleted conditions (microarray)
+184,Fur,ABUW_3033,TF,,,,A1S_1063,,ABUW_2828,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain with differential expression in iron depleted conditions (microarray)
+187,Fur,ABUW_3033,TF,,,,A1S_2157,,ABUW_1564,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain with differential expression in iron depleted conditions (microarray)
+190,Fur,ABUW_3033,TF,,,,A1S_2230,,ABUW_1466,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain with differential expression in iron depleted conditions (microarray)
+194,Fur,ABUW_3033,TF,,,,A1S_3231,,ABUW_0255,DOI 10.1186/1471-2164-12-126 ,Genes that contain a predicted Fur box domain with differential expression in iron depleted conditions (microarray)
 197,BfmR-BfmS,ABUW_3181/ABUW_3180,TCS,,csuA,,,,ABUW_1488,DOI 10.1099/mic.0.2008/019471-0,Differential expression of csuA and csuB in 19606  - the rest are part of the operon
 198,BfmR-BfmS,ABUW_3181/ABUW_3180,TCS,,csuB,,,,ABUW_1489,DOI 10.1099/mic.0.2008/019471-0,Differential expression of csuA and csuB in 19606  - the rest are part of the operon
 199,GacA-GacS,A1S_0574,TCS,,csuB,,A1S_2216,,ABUW_1489,DOI https://doi.org/10.1093/infdis/jiu024 ,Differential expression in ATCC 17978 
@@ -578,3 +549,119 @@
 578,GigC,,TF,-,,cysQ,,,ABUW_2218,doi 10.1128/IAI.00180-20,expression in AB5075 with gigC KO
 579,GigC,,TF,+,,cysN,,,ABUW_2895,doi 10.1128/IAI.00180-20,expression in AB5075 with gigC KO
 580,GigC,,TF,+,,cysD,,,ABUW_2806,doi 10.1128/IAI.00180-20,expression in AB5075 with gigC KO
+581,ABUW_1645,,regulator,4.915216955,,TetR family transcriptional regulator,,,ABUW_2818,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+582,ABUW_1645,,regulator,2.301672048,,"transcriptional regulator, TetR family",,,ABUW_1645,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+583,ABUW_1645,,regulator,1.708356159,,LrgA family protein,,,ABUW_2408,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+584,ABUW_1645,,regulator,1.457183349,,TonB-dependent receptor protein,,,ABUW_0143,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+585,ABUW_1645,,regulator,1.371783697,,alkaline phosphatase,,,ABUW_0904,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+586,ABUW_1645,,regulator,1.370619141,,hypothetical protein,,,ABUW_0813,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+587,ABUW_1645,,regulator,1.365134692,,formylglycine-generating sulfatase  enzyme domain-containing protein,,,ABUW_2921,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+588,ABUW_1645,,regulator,1.236190442,,,,,ABUW_2696,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+589,ABUW_1645,,regulator,1.226512802,,oxidoreductase,,,ABUW_2122,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+590,ABUW_1645,,regulator,1.176246145,,hypothetical protein,,,ABUW_1044,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+591,ABUW_1645,,regulator,1.131448712,,hypothetical protein,,,ABUW_0812,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+592,ABUW_1645,,regulator,1.0991632,,TonB-dependent receptor,,,ABUW_3403,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+593,ABUW_1645,,regulator,1.046470806,fahA,fumarylacetoacetase,,,ABUW_0070,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+594,ABUW_1645,,regulator,1.040780318,hppD,4-hydroxyphenylpyruvate dioxygenase,,,ABUW_0066,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+595,ABUW_1645,,regulator,1.040300808,,glyoxalase/bleomycin resistance protein/dioxygenase,,,ABUW_0068,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+596,ABUW_1645,,regulator,1.010368124,,RtcB family protein,,,ABUW_0651,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+597,ABUW_1645,,regulator,0.992285043,,hypothetical protein,,,ABUW_0810,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+598,ABUW_1645,,regulator,0.986078588,,phage-related major tail tube protein (FII-like),,,ABUW_0566,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+599,ABUW_1645,,regulator,0.979928548,mdfA,chloramphenicol resistance pump cmr,,,ABUW_0337,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+600,ABUW_1645,,regulator,0.965603901,,"ABC transporter, ATP-binding protein",,,ABUW_1660,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+601,ABUW_1645,,regulator,0.918564326,bfr2,bacterioferritin,,,ABUW_3125,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+602,ABUW_1645,,regulator,0.884457817,,DEAD/DEAH box helicase,,,ABUW_0381,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+603,ABUW_1645,,regulator,0.855683002,aadA1,aminoglycoside 3''-adenylyltransferase aadA1,,,ABUW_4057,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+604,ABUW_1645,,regulator,-0.778440897,,hypothetical protein,,,ABUW_2923,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+605,ABUW_1645,,regulator,-0.803105363,,hypothetical protein,,,ABUW_3579,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+606,ABUW_1645,,regulator,-0.817472718,,hypothetical protein,,,ABUW_1210,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+607,ABUW_1645,,regulator,-0.839692432,katE,catalase,,,ABUW_2436,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+608,ABUW_1645,,regulator,-0.840947021,,sulfate transporter,,,ABUW_0259,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+609,ABUW_1645,,regulator,-0.845669728,,"type VI secretion system effector, Hcp1 family",,,ABUW_2578,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+610,ABUW_1645,,regulator,-0.854295085,,UPF0391 membrane protein,,,ABUW_0053,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+611,ABUW_1645,,regulator,-0.871637245,degP,"peptidase S1C, Do",,,ABUW_1027,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+612,ABUW_1645,,regulator,-0.878944874,ampC,beta-lactamase ADC7,,,ABUW_1194,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+613,ABUW_1645,,regulator,-0.882858345,,putative hemolysin,,,ABUW_2554,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+614,ABUW_1645,,regulator,-0.894814047,,hypothetical protein,,,ABUW_1128,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+615,ABUW_1645,,regulator,-0.903293993,,hypothetical protein,,,ABUW_1536,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+616,ABUW_1645,,regulator,-0.911893193,,EamA-like transporter family protein,,,ABUW_1499,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+617,ABUW_1645,,regulator,-0.918789675,,oxidoreductase alpha (molybdopterin) subunit,,,ABUW_0944,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+618,ABUW_1645,,regulator,-0.922651828,,hypothetical protein,,,ABUW_1076,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+619,ABUW_1645,,regulator,-0.924010289,,acyl-CoA dehydrogenase,,,ABUW_1227,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+620,ABUW_1645,,regulator,-0.926969624,acnA,aconitate hydratase 1,,,ABUW_3346,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+621,ABUW_1645,,regulator,-0.938225273,,hypothetical protein,,,ABUW_2832,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+622,ABUW_1645,,regulator,-0.953993334,,universal stress protein family,,,ABUW_2639,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+623,ABUW_1645,,regulator,-0.965956612,,hypothetical protein,,,ABUW_2519,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+624,ABUW_1645,,regulator,-0.966124285,,PGAP1-like GPI inositol-deacylase,,,ABUW_0274,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+625,ABUW_1645,,regulator,-0.980194072,,Gp5 domain-containing protein,,,ABUW_0116,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+626,ABUW_1645,,regulator,-0.987633118,,hypothetical protein,,,ABUW_0851,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+627,ABUW_1645,,regulator,-1.001629876,,hypothetical protein,,,ABUW_1473,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+628,ABUW_1645,,regulator,-1.01379071,aqpZ,aquaporin Z,,,ABUW_0237,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+629,ABUW_1645,,regulator,-1.018109436,,hypothetical protein,,,ABUW_2058,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+630,ABUW_1645,,regulator,-1.023763987,,isochorismatase hydrolase,,,ABUW_1905,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+631,ABUW_1645,,regulator,-1.026620022,,hypothetical protein,,,ABUW_1287,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+632,ABUW_1645,,regulator,-1.047486814,,hypothetical protein,,,ABUW_2161,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+633,ABUW_1645,,regulator,-1.069574174,,glycosylase/bleomycin  resistance/fosfomycin  resistance/dioxygenase  domain-containing protein,,,ABUW_0646,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+634,ABUW_1645,,regulator,-1.074141993,,heme oxygenase-like protein,,,ABUW_1693,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+635,ABUW_1645,,regulator,-1.079884798,,aldose 1-epimerase,,,ABUW_2933,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+636,ABUW_1645,,regulator,-1.089615925,,"transcriptional regulator, fur family",,,ABUW_2074,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+637,ABUW_1645,,regulator,-1.09479475,,peptidoglycan-binding LysM,,,ABUW_3106,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+638,ABUW_1645,,regulator,-1.108357881,,hypothetical protein,,,ABUW_2834,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+639,ABUW_1645,,regulator,-1.121926699,,hypothetical protein,,,ABUW_0117,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+640,ABUW_1645,,regulator,-1.130234332,cbpA,curved DNA-binding protein,,,ABUW_3515,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+641,ABUW_1645,,regulator,-1.135099295,gst,glutathione S-transferase,,,ABUW_2725,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+642,ABUW_1645,,regulator,-1.143888233,,hypothetical protein,,,ABUW_0181,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+643,ABUW_1645,,regulator,-1.152675852,,acyl-CoA dehydrogenase,,,ABUW_1573,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+644,ABUW_1645,,regulator,-1.153686976,,hypothetical protein,,,ABUW_0771,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+645,ABUW_1645,,regulator,-1.159158709,ygiW2,bacterial OB fold domain-containing  protein YgiW,,,ABUW_1471,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+646,ABUW_1645,,regulator,-1.172701199,,glyoxalase,,,ABUW_3026,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+647,ABUW_1645,,regulator,-1.181108957,,hypothetical protein,,,ABUW_0233,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+648,ABUW_1645,,regulator,-1.191835384,,bacterial SH3 domain-containing protein,,,ABUW_0121,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+649,ABUW_1645,,regulator,-1.217300799,,short-chain dehydrogenase/reductase,,,ABUW_1572,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+650,ABUW_1645,,regulator,-1.226698819,,methylcrotonoyl-CoA carboxylase subunit alpha,,,ABUW_2455,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+651,ABUW_1645,,regulator,-1.237259797,mgh,3-methylglutaconyl-CoA hydratase,,,ABUW_2454,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+652,ABUW_1645,,regulator,-1.240961448,,putative flavoprotein,,,ABUW_3865,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+653,ABUW_1645,,regulator,-1.255140213,,oxidoreductase,,,ABUW_2435,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+654,ABUW_1645,,regulator,-1.257349861,,OmpA/MotB,,,ABUW_2730,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+655,ABUW_1645,,regulator,-1.28090319,,long-chain fatty-acid-CoA ligase,,,ABUW_2450,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+656,ABUW_1645,,regulator,-1.285871348,,hypothetical protein,,,ABUW_0118,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+657,ABUW_1645,,regulator,-1.293825891,,hypothetical protein,,,ABUW_1282,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+658,ABUW_1645,,regulator,-1.304365804,sndH2,L-sorbosone dehydrogenase,,,ABUW_1902,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+659,ABUW_1645,,regulator,-1.338203834,,hypothetical protein,,,ABUW_1652,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+660,ABUW_1645,,regulator,-1.353270987,,fimbrial biogenesis outer membrane  usher protein,,,ABUW_1633,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+661,ABUW_1645,,regulator,-1.387516291,,hypothetical protein,,,ABUW_2061,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+662,ABUW_1645,,regulator,-1.393659853,,hypothetical protein,,,ABUW_1903,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+663,ABUW_1645,,regulator,-1.437296542,,transcriptional regulator AcrR family,,,ABUW_2451,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+664,ABUW_1645,,regulator,-1.444745708,,hypothetical protein,,,ABUW_2685,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+665,ABUW_1645,,regulator,-1.449387973,,hypothetical protein,,,ABUW_2686,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+666,ABUW_1645,,regulator,-1.458717146,,hydroxymethylglutaryl-CoA lyase,,,ABUW_2456,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+667,ABUW_1645,,regulator,-1.467473995,,transporter LysE family,,,ABUW_2691,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+668,ABUW_1645,,regulator,-1.489326388,add2,adenosine deaminase,,,ABUW_3217,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+669,ABUW_1645,,regulator,-1.49891424,,phage putative head morphogenesis protein,,,ABUW_2684,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+670,ABUW_1645,,regulator,-1.518525474,,hypothetical protein,,,ABUW_2065,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+671,ABUW_1645,,regulator,-1.587382829,,putative transcriptional regulator,,,ABUW_3352,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+672,ABUW_1645,,regulator,-1.598364095,,hypothetical protein,,,ABUW_3147,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+673,ABUW_1645,,regulator,-1.598822306,,hypothetical protein,,,ABUW_1988,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+674,ABUW_1645,,regulator,-1.622826603,,isovaleryl-CoA dehydrogenase,,,ABUW_2452,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+675,ABUW_1645,,regulator,-1.643082209,,hypothetical protein,,,ABUW_2060,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+676,ABUW_1645,,regulator,-1.6473942,,methylcrotonoyl-CoA carboxylase beta chain,,,ABUW_2453,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+677,ABUW_1645,,regulator,-1.661588713,,lipocalin family protein,,,ABUW_1508,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+678,ABUW_1645,,regulator,-1.684595935,,hypothetical protein,,,ABUW_2149,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+679,ABUW_1645,,regulator,-1.82504609,,PapD-like P pilus assembly protein,,,ABUW_1632,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+680,ABUW_1645,,regulator,-1.831083983,,hypothetical protein,,,ABUW_2621,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+681,ABUW_1645,,regulator,-1.832438149,,hypothetical protein,,,ABUW_2442,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+682,ABUW_1645,,regulator,-1.837037338,,hemerythrin,,,ABUW_0328,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+683,ABUW_1645,,regulator,-1.841394326,,transporter LysE family,,,ABUW_0235,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+684,ABUW_1645,,regulator,-1.856545115,,acyl-CoA dehydrogenase,,,ABUW_1467,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+685,ABUW_1645,,regulator,-1.861413285,,hypothetical protein,,,ABUW_1286,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+686,ABUW_1645,,regulator,-1.916796142,,peroxidase,,,ABUW_0628,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+687,ABUW_1645,,regulator,-2.010990393,,heme oxygenase-like protein,,,ABUW_3351,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+688,ABUW_1645,,regulator,-2.06556065,otsB,trehalose-phosphatase,,,ABUW_3122,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+689,ABUW_1645,,regulator,-2.129653059,,hypothetical protein,,,ABUW_1651,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+690,ABUW_1645,,regulator,-2.157222364,,hypothetical protein,,,ABUW_1659,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+691,ABUW_1645,,regulator,-2.179770653,,hypothetical protein,,,ABUW_2673,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+692,ABUW_1645,,regulator,-2.208853253,,hypothetical protein,,,ABUW_2064,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+693,ABUW_1645,,regulator,-2.226155348,,hypothetical protein,,,ABUW_2434,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+694,ABUW_1645,,regulator,-2.252388237,,spore coat protein U,,,ABUW_1631,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+695,ABUW_1645,,regulator,-2.348140035,,hypothetical protein,,,ABUW_2861,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
+696,ABUW_1645,,regulator,-2.58878957,,hypothetical protein,,,ABUW_1466,https://journals.asm.org/doi/10.1128/mBio.02338-20,expression in VIR-O versus AV-T 
